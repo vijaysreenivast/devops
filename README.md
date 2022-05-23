@@ -1,2 +1,2 @@
-# devops
+# dev
 just for fun
